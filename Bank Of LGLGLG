@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bank of LGLGL Login</title>
+    </head>
+    <body>
+       
+       <h1>Bank of LGLGL</h1>
+       <img src="https://i.imgur.com/Go3RbMU.jpeg">
+       
+       <p> Money</p>
+       
+       <p> We help you get more money, just like this photo</p>
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+        <p>Welcome to the Bank of LGLGL. Please have your login details ready.</p>
+    
+    
+    <h2>Login Here!</h2>
+    <button onclick="window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';">
+        Click Here To Login
+      </button>
+
+
+
+
+
+    <p> © Copyright LGLGL 2022
+    </body>
+
+</html>
+
+//Copyright Undisclosed1234 Do Not Steal
+
+
